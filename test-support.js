@@ -1,0 +1,5 @@
+window.random1 = require('./generated.json')
+window.random2 = require('./generated.json')
+window.random3 = require('./generated.json')
+window.random4 = require('./generated.json')
+window.random5 = require('./generated.json')

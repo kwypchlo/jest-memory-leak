@@ -1,0 +1,13 @@
+{
+  "name": "jest-memory-leak",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest -i --logHeapUsage"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "<rootDir>/test-support.js"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
